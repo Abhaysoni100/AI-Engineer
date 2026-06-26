@@ -18,3 +18,6 @@ print()
 
 print("Student :", is_student)
 print("Type    :", type(is_student))
+
+
+

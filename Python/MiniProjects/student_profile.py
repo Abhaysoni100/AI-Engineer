@@ -15,4 +15,3 @@ print("Age      :", age)
 print("City     :", city)
 print("College  :", college)
 print("CGPA     :", cgpa)
-    

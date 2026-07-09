@@ -49,28 +49,78 @@ Welcome to my AI Engineering learning journey! This repository documents my prog
 * Git helps track every change in a project.
 
 ---
-
-# 📚 Upcoming Roadmap
-
-* ✅ Python Fundamentals
-* 🔜 Decision Making (`if`, `elif`, `else`)
-* 🔜 Loops
-* 🔜 Functions
-* 🔜 Lists
-* 🔜 Tuples
-* 🔜 Dictionaries
-* 🔜 Object-Oriented Programming
-* 🔜 NumPy
-* 🔜 Pandas
-* 🔜 Machine Learning
-* 🔜 Deep Learning
-* 🔜 TensorFlow
-* 🔜 Hugging Face
-* 🔜 LangChain
-* 🔜 RAG
-* 🔜 AI Projects
-
 ---
+
+## ✅ Day 3 - Decision Making in Python
+
+### 📚 Topics Covered
+
+- if Statement
+- if...else Statement
+- if...elif...else Statement
+- Comparison Operators with Conditions
+- Decision Making
+- Menu-Driven Programs
+
+### 💻 Programs Created
+
+- Voting Eligibility Checker
+- Grading System
+- ATM Menu System (Version 1)
+
+### 🛠️ Git Skills
+
+- Git Status
+- Git Add
+- Git Commit
+- Git Push
+- Git Pull with Rebase
+- Handling Git Push Conflicts
+
+### 🧠 Key Learnings
+
+- Python executes code based on conditions.
+- `if` executes only when the condition is `True`.
+- `else` executes when all previous conditions are `False`.
+- `elif` is used to check multiple conditions.
+- Python executes only the **first matching condition** in an `if-elif-else` block.
+- Decision-making is the foundation of real-world applications like ATMs, Login Systems, and Banking Software.
+
+### 🏗️ Mini Project
+
+**Python ATM System (Version 1)**
+
+**Features**
+- Check Balance
+- Deposit (Coming Soon)
+- Withdraw (Coming Soon)
+- Exit
+- Invalid Choice Handling
+
+## 📚 Upcoming Roadmap
+
+- ✅ Python Fundamentals
+- ✅ Interactive Python Programming
+- ✅ Decision Making (`if`, `elif`, `else`)
+- 🔜 Loops (`for`, `while`)
+- 🔜 Functions
+- 🔜 Lists
+- 🔜 Tuples
+- 🔜 Dictionaries
+- 🔜 File Handling
+- 🔜 Object-Oriented Programming
+- 🔜 NumPy
+- 🔜 Pandas
+- 🔜 Data Visualization
+- 🔜 Machine Learning
+- 🔜 Deep Learning
+- 🔜 TensorFlow
+- 🔜 Hugging Face
+- 🔜 LangChain
+- 🔜 RAG
+- 🔜 AI Projects
+---
+
 
 # 🛠️ Tech Stack
 
@@ -83,6 +133,18 @@ Welcome to my AI Engineering learning journey! This repository documents my prog
 
 ---
 
+## 📈 Bootcamp Progress
+
+| Day | Topic | Status |
+|------|-------------------------------|--------|
+| Day 1 | Python Fundamentals | ✅ |
+| Day 2 | Interactive Python Programming | ✅ |
+| Day 3 | Decision Making & ATM Project | ✅ |
+
+**Overall Progress:** **3 / 100 Days** 🚀
+
+
+
 # 🎯 Goal
 
 To become an AI Engineer by mastering Python, Machine Learning, Deep Learning, Large Language Models (LLMs), and building real-world AI applications.
@@ -90,8 +152,3 @@ To become an AI Engineer by mastering Python, Machine Learning, Deep Learning, L
 ⭐ Learning one concept, one project, and one commit at a time.
 
 
-## 🎯 Goal
-
-To become an AI Engineer by mastering Python, Machine Learning, Deep Learning, LLMs, and building real-world AI applications.
-
-⭐ Follow my journey as I learn one concept and build one project at a time.
